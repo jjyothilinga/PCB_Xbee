@@ -1,0 +1,13 @@
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : xbee_addon-2-1-2-np.drl for board xbee_addon-3.brd ... layers TOP and BOTTOM
+;T04 Holesize 1. = 125.000000 Tolerance = +0.000000/-0.000000 NON_PLATED MILS
+%
+G90
+T04
+X00125Y00125
+X00125Y01075
+X02250Y01075
+X02250Y00125
+M30

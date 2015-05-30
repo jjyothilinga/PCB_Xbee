@@ -1,0 +1,64 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\zig_be_add_on.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File "D:\DESIGN\SAMPATH\ZIG_BE_ADD_ON\ZIG_BE_ADD_ON.DRC")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\zig_be_add_on.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\zig_be_add_on.dsn")
+      (Path "Design Resources" ".\zig_be_add_on.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\zig_be_add_on.dsn" "SCHEMATIC1"
+         "ZigBeAddOn_V1.0"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 741 -8 -30 0 200 0 403"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 25 1254 25 327")
+        (Scroll "-77 252")
+        (Zoom "94")
+        (Occurrence "/"))
+      (Path "D:\JO\IDEONICS\PCBDESIGN\XBEE\ZIG_BE_ADD_ON.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ZigBeAddOn_V1.0")))
+  (MPSSessionName "JO"))
